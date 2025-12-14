@@ -48,9 +48,7 @@ This research focuses on developing an interpretable machine learning system for
 ### **Phase 4: SAE-based Classifier Development** *(January 2026)*
 
 - **4.1** SAE feature extraction from language model representations ✅
-- **4.2** Feature selection methodology implementation ✅
-- **4.3** Classifier architecture selection and development ✅
-- **4.4** Hyperparameter tuning and optimization ✅
+- **4.2** Classifier architecture selection and development ✅
 
 ### **Phase 5: Model Comparison and Evaluation** *(January 2026)*
 
@@ -65,11 +63,11 @@ This research focuses on developing an interpretable machine learning system for
   - Automated feature description generation ✅
 - **6.3** Individual prediction explanation visualization development ✅
 
-### **Phase 7: Service Development and Deployment** *(March 2026)*
+### **Phase 7: Service Development** *(March 2026)*
 
 - Development of a demonstration service that showcases the suicide risk detection system
 
-### **Phase 8: Final Analysis and Documentation** *(March 2026)*
+### **Phase 8: Final Analysis and Preparations** *(March 2026)*
 
 - **8.1** Comprehensive results analysis and discussion
 - **8.2** Thesis writing
