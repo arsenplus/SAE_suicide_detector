@@ -2,7 +2,7 @@
 
 **HSE University, Faculty of Computer Science**  
 **Master's Degree in Data Science**  
-**Master's Thesis Project**
+**Thesis Project**
 
 ---
 
